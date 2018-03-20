@@ -1,0 +1,18 @@
+1. Download & install mongodb/mongodb
+2. Download & install XAMPP
+3. Download & install appropriate mongodb driver(https://pecl.php.net/package/mongodb)
+4. Download & install composer
+5. Create folder in xampp/htdocs/foldername
+6. goto command prompt & run 
+composer require "mongodb/mongodb=^1.0.0"
+
+
+
+
+
+
+
+
+
+codeignitor with mongodb
+http://www.discussdesk.com/integrate-mongodb-in-codeigniter.htm
